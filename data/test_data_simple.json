@@ -1,0 +1,56 @@
+{
+	"player_1" : {
+		"player_id" : 2,
+		"username" : "Player Tres",
+		"player_class" : "peasant",
+		"inventory" : {
+			"max_capacity" : 24,
+			"current_capacity" : 23,
+			"items" : [
+				{
+					"item_id" : 12,
+					"name" : "Iron Shortsword",
+					"level" : 10,
+					"value" : 2,
+					"quantity" : 1
+				}]
+		},
+		"gold" : 1,
+		"items_traded" : [
+			{
+				"item_id" : 12,
+				"name" : "Iron Shortsword",
+				"level" : 10,
+				"value" : 2,
+				"quantity" : 1
+			}],
+		"gold_traded" : 0
+	},
+	"player_2" : {
+		"player_id" : 3,
+		"username" : "Player Cuatro",
+		"player_class" : "peasant",
+		"inventory" : {
+			"max_capacity" : 24,
+			"current_capacity" : 4,
+			"items" : [
+				{
+					"item_id" : 11,
+					"name" : "Bronze Shortsword",
+					"level" : 5,
+					"value" : 0.25,
+					"quantity" : 1
+				}]
+		},
+		"gold" : 51,
+		"items_traded" : [
+			{
+			    "item_id" : 11,
+				"name" : "Bronze Shortsword",
+				"level" : 5,
+				"value" : 0.25,
+				"quantity" : 1
+			}],
+		"gold_traded" : 50
+	}
+}

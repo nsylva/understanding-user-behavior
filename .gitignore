@@ -1,0 +1,10 @@
+#avoid .DS_Store
+.DS_Store
+
+#avoid pycaches and generated Cython
+/__pycache__
+/app_utils/__pycache__
+*.pyc
+
+#ignore IDE specific files
+/.vscode/

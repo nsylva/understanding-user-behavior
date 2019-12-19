@@ -1,0 +1,225 @@
+{
+    "blacksmith" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 1,
+                    "name" : "Suit of Iron Armor",
+                    "level" : 10,
+                    "value" : 50,
+                    "quantity" : 400
+                },
+                {
+                    "item_id" : 2,
+                    "name" : "Iron Sword",
+                    "level" : 10,
+                    "value" : 10,
+                    "quantity" : 499
+                }
+            ]
+        },
+        "gold" : 1000
+    },
+    "alchemist" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 3,
+                    "name" : "Healing Potion",
+                    "level" : 1,
+                    "value" : 5,
+                    "quantity" : 100
+                },
+                {
+                    "item_id" : 4,
+                    "name" : "Medicinal Herbs",
+                    "level" : 1,
+                    "value" : 1,
+                    "quantity" : 799
+                }
+            ]
+        },
+        "gold" : 1000
+    },
+    "farmer" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 5,
+                    "name" : "Food Package",
+                    "level" : 1,
+                    "value" : 6,
+                    "quantity" : 500
+                },
+                {
+                    "item_id" : 6,
+                    "name" : "Milk",
+                    "level" : 1,
+                    "value" : 3,
+                    "quantity" : 399
+                }
+            ]    
+        },
+        "gold" : 500
+    },
+    "hunter" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 7,
+                    "name" : "Venison",
+                    "level" : 1,
+                    "value" : 10,
+                    "quantity" : 450
+                },
+                {
+                    "item_id" : 8,
+                    "name" : "Leather",
+                    "level" : 1,
+                    "value" : 5,
+                    "quantity" : 449
+                }
+            ]
+        },
+        "gold" : 500
+    },
+    "tailor" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 9,
+                    "name" : "Cotton Clothing",
+                    "level" : 1,
+                    "value" : 5,
+                    "quantity" : 700
+                },
+                {
+                    "item_id" : 10,
+                    "name" : "Fancy Clothing",
+                    "level" : 1,
+                    "value" : 300,
+                    "quantity" : 199
+                }
+            ]    
+        },
+        "gold" : 1000
+    },
+    "trader" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 11,
+                    "name" : "Trade Goods",
+                    "level" : 1,
+                    "value" : 5,
+                    "quantity" : 880
+                },
+                {
+                    "item_id" : 12,
+                    "name" : "Exotic Pet",
+                    "level" : 1,
+                    "value" : 10000,
+                    "quantity" : 19
+                }
+            ]    
+        },
+        "gold" : 50000
+    },
+    "aristocrat" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 13,
+                    "name" : "Political Dirt",
+                    "level" : 1,
+                    "value" : 50000,
+                    "quantity" : 3
+                },
+                {
+                    "item_id" : 14,
+                    "name" : "General Fancy Supplies",
+                    "level" : 1,
+                    "value" : 1000,
+                    "quantity" : 896
+                }
+            ]        
+        },
+        "gold" : 5000000
+    },
+    "leatherworker" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 15,
+                    "name" : "Crafted Leather Goods",
+                    "level" : 1,
+                    "value" : 500,
+                    "quantity" : 899
+                }
+            ]        
+        },
+        "gold" : 1000
+    },
+        "banker" : {
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 17,
+                    "name" : "Trade Document",
+                    "level" : 1,
+                    "value" : 50,
+                    "quantity" : 100
+                },
+                {
+                    "item_id" : 18,
+                    "name" : "Absurdly Expensive Status Item",
+                    "level" : 1,
+                    "value" : 100000,
+                    "quantity" : 799
+                }
+            ]        
+        },
+        "gold" : 10000000
+    },
+    "warrior" :{
+        "inventory" : {
+            "max_capacity" : 999,
+            "current_capacity" : 100,
+            "items" : [
+                {
+                    "item_id" : 19,
+                    "name" : "Trophy of War",
+                    "level" : 1,
+                    "value" : 50,
+                    "quantity" : 898
+                },
+                {
+                    "item_id" : 20,
+                    "name" : "Proof of Loyalty",
+                    "level" : 1,
+                    "value" : 1000000,
+                    "quantity" : 1
+                }
+            ]        
+        },
+        "gold" : 500
+    }    
+}

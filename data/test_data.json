@@ -1,0 +1,91 @@
+{
+	"player_1" : {
+		"player_id" : 0,
+		"username" : "Player Uno",
+		"player_class" : "peasant",
+		"inventory" : {
+			"max_capacity" : 24,
+			"current_capacity" : 7,
+			"items" : [
+				{
+					"item_id" : 12,
+					"name" : "Iron Shortsword",
+					"level" : 10,
+					"value" : 2,
+					"quantity" : 2
+				},
+				{
+					"item_id" : 5,
+					"name" : "Blacksmith Hammer",
+					"level" : 0,
+					"value" : 0.15,
+					"quantity" : 1
+				},
+				{
+					"item_id" : 26,
+					"name" : "Iron Bar",
+					"level" : 0,
+					"value" : 0.75,
+					"quantity" : 14
+				}]
+		},
+		"gold" : 45,
+		"items_traded" : [
+			{
+				"item_id" : 12,
+				"name" : "Iron Shortsword",
+				"level" : 10,
+				"value" : 2,
+				"quantity" : 1
+			}],
+		"gold_traded" : 0
+	},
+	"player_2" : {
+		"player_id" : 1,
+		"username" : "Player Dos",
+		"player_class" : "peasant",
+		"inventory" : {
+			"max_capacity" : 24,
+			"current_capacity" : 4,
+			"items" : [
+				{
+					"item_id" : 11,
+					"name" : "Bronze Shortsword",
+					"level" : 5,
+					"value" : 0.25,
+					"quantity" : 1
+				},
+				{
+					"item_id" : 6,
+					"name" : "Mortar and Pestle",
+					"level" : 0,
+					"value" : 0.15,
+					"quantity" : 1
+				},
+				{
+					"item_id" : 100,
+					"name" : "Suspicious Mushrooms",
+					"level" : 0,
+					"value" : 0.1,
+					"quantity" : 6
+				},
+				{
+					"item_id" : 101,
+					"name" : "Glowing Mint Leaf",
+					"level" : 5,
+					"value" : 3,
+					"quantity" : 12
+				}]
+		},
+		"gold" : 488,
+		"items_traded" : [
+			{
+				"item_id" : 101,
+				"name" : "Glowing Mint Leaf",
+				"level" : 5,
+				"value" : 3,
+				"quantity" : 5
+			}],
+		"gold_traded" : 10
+	}
+}
