@@ -1,12 +1,12 @@
-# Project 3: Understanding User Behavior
+# W205 - Data Engineering - Project 3: Understanding User Behavior
 
-Submitted By: Nick Sylva 12/10/2019
+By: Nick Sylva
 
 ## Summary
 
-This repository provides a detailed demonstration of how to spin up a simple data pipeline for the purpose of answering business questions about user behavior for our trade-based fantasy game. The topics demonstrated consist of the following:
+This repository provides a detailed demonstration of how to spin up a simple data pipeline for the purpose of answering business questions about user behavior for an imagined trade-based fantasy game. The topics demonstrated consist of the following:
 
-1. Spinning Up the API and Pipeline
+1. Spinning Up an API and Pipeline
 2. Building the Trade Engine API Using Flask
 3. Keeping Track of Player States Using Redis
 4. Logging Events to Kafka
